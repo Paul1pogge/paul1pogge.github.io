@@ -1,0 +1,86 @@
+body {
+    background-image: url(../images/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
+.nav ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+    overflow: hidden;
+	background-image: url(../images/bg.jpg);
+}
+
+.nav ul li {
+    float: left;
+}
+
+.nav ul li a {
+	display: block;
+    color: black;   
+    text-align: center;
+    padding: 20px;                
+    text-decoration: none;
+}
+
+ .nav ul li a:hover {
+    color: white;
+    background-color: gray;                
+}
+
+.nav ul li.sprite {
+    float: right;
+}
+
+.nav ul li.sprite a div#twitter {
+    background: url("../images/twitter.png")
+    width: 20px;
+    height: 20px;
+}
+
+.nav ul li.sprite a:hover div#twitter {
+	background: url("../images/twitter.png")
+    width: 20px;
+    height: 20px;
+}
+
+.nav ul li.sprite a div#facebook {
+    background: url("../images/facebook.png")
+    width: 20px;
+    height: 20px;
+}
+
+.nav ul li.sprite a:hover div#facebook {
+    background: url("../images/facebook.png")
+    width: 20px;
+    height: 20px;
+}
+
+.nav ul li.sprite a div#youtube {
+    background: url("../images/youtube.png")
+    width: 20px;
+    height: 20px;
+}
+
+.nav ul li.sprite a:hover div#youtube {
+    background: url("../images/youtube.png")
+    width: 20px;
+    height: 20px;
+}
+
+.header {
+    background-image: url(../images/bg.jpg);
+    padding: 5px;
+    text-align: center;
+    color: black;
+    font-size: 20px;
+ 
+}
+
+.content {
+    background-image: url(../images/bg.jpg);
+    border: solid black 5px; 
+    margin-top: 10px;
+    text-align: left;
+}

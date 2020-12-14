@@ -1,0 +1,18 @@
+*{
+	background-color: gray;
+}
+h1{
+	font-family: century gothic;
+	color: white;
+	text-align: center;
+	font-size: 36px;
+}
+h2{
+	font-family: century gothic;
+	color: red;
+	text-align: left;
+}
+h3{
+	font-family: century gothic;
+	color: yellow;
+	text-align: left;

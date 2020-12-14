@@ -1,0 +1,19 @@
+body{
+	background-color: gray;
+}
+h1{
+	font-family: century gothic;
+	color: white;
+	text-align: center;
+	font-size: 36px;
+}
+h5{
+	font-family: arial;
+	color: white;
+	border: 3px red solid;
+}
+h2{
+	font-family: century gothic;
+	color: Yellow;
+	text-align: right;
+}
